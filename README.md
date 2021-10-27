@@ -1,2 +1,2 @@
-# learninggo
+# Learning Go
 Learning Go
